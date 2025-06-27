@@ -58,7 +58,7 @@ const panel = document.getElementById('floatingPanel');
       leftPara1: "About Mindtickle👉",
       leftPara2: "Learn about the people behind the platform.",
        leftPara3: "",
-       image: "https://teamteki.com/wp-content/uploads/2023/09/Logo-Team-Teki-Small.png",
+       image: "logo.png",
       rightPara: "🌟 Careers",
       submenu: ['Why Mindtickle', 'News', 'Career'],
       details: ['See what opportunities are open at Mindtickle and Join the team']
